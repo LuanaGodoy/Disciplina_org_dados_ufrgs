@@ -4,4 +4,4 @@ Essse projeto contém o material utilizado para obtenção do título de Licenci
 
 Objetivo do Projeto: Avaliar o grau de interesse, criticidade e compreensão do conteúdo de microbiologia apresentado como aulas/oficinas práticas não convencionais, tendo como meio a popularização científica e utilização de filmes de ficção (gênero terror). Elaborar como avaliação e resultante das oficinas uma produção organizada pela turma, que aborde a temática da microbiologia articulada com a realidade em que vivem, ou ficção, na qual pode se dar através da criação de contos de terror ou suspense, peça teatral ou até mesmo um curta metragem utilizando como base a metodologia simplificada no projeto “Primeiro Filme  ” do Carlos Gerbase, a qual tive o prazer de participar.
 
-Nele contém o Projeto de TCC - Licenciatura e o Questionário qualitativo disponibilizado para que os alunos contribuíssem, bem como uma pasta contendo o "TCC_Concluído".
+Nele contém o Projeto de TCC - Licenciatura, o Questionário qualitativo disponibilizado para que os alunos contribuíssem, a tabela de análise do questionário, bem como uma pasta contendo o "TCC_Concluído".
